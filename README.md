@@ -18,8 +18,6 @@ When you run this program, it opens port `8080` and responds with the **current 
 
 ## 📦 How to Run
 
-### 1. Clone the repository
-
 ```bash
 
 git clone https://github.com/FaroukAzizi-dev/Simple-java-http-Server.git
